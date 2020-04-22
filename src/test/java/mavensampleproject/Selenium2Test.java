@@ -15,4 +15,10 @@ public class Selenium2Test {
 		
 		System.out.println("Demo2 passed ");
 	}
+	
+	@Test
+	public void demoTest3() {
+		
+		System.out.println("Demo3 passed ");
+	}
 }
