@@ -9,6 +9,7 @@ public class SeleniumTest {
 	public void browserAutomation() {
 		
 		System.out.println("Browser invoked ");
+		System.out.println("for 21d");
 	}
 	
 	
@@ -16,5 +17,6 @@ public class SeleniumTest {
 	public void elementUI() {
 		
 		System.out.println("Element Invoked");
+		System.out.println("for ds4");
 	}
 }

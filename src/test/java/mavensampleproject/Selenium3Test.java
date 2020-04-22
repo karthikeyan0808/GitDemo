@@ -9,6 +9,9 @@ public class Selenium3Test {
 		
 		System.out.println("TestCase1 Passed ");
 		System.out.println("for git");
+		System.out.println("for for");
+		System.out.println("for not");
+		
 		
 	}
 
@@ -16,5 +19,7 @@ public class Selenium3Test {
 	public void testCase2() {
 		
 		System.out.println("TestCase2 Passed");
+		System.out.println("for check");
+		System.out.println("for tick");
 	}
 }
