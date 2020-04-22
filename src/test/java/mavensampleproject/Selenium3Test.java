@@ -8,6 +8,7 @@ public class Selenium3Test {
 	public void testCase1() {
 		
 		System.out.println("TestCase1 Passed ");
+		System.out.println("for git");
 		
 	}
 
