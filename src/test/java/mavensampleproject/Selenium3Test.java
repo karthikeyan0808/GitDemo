@@ -21,5 +21,17 @@ public class Selenium3Test {
 		System.out.println("TestCase2 Passed");
 		System.out.println("for check");
 		System.out.println("for tick");
+		System.out.println("for check");
+		System.out.println("for tick");
+	}
+	
+	@Test	
+	public void testCase3() {
+		
+		System.out.println("TestCase2 Passed");
+		System.out.println("for check");
+		System.out.println("for tick");
+		System.out.println("for check");
+		System.out.println("for tick");
 	}
 }
